@@ -1,0 +1,420 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"Http",
+				"HttpResponseRedirect"
+			],
+			[
+				"http",
+				"HttpResponse"
+			],
+			[
+				"Pos",
+				"PostAdmin"
+			],
+			[
+				"aut",
+				"auto_now_add"
+			],
+			[
+				"sha",
+				"share_string"
+			],
+			[
+				"slug",
+				"slugify"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"pa",
+				"page_request_var"
+			],
+			[
+				"pag",
+				"paginator"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"Htt",
+				"HttpResponseRedirect"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"Post",
+				"PostForm"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/trydjango1_10/settings.py",
+			"settings":
+			{
+				"buffer_size": 3387,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/trydjango1_10/urls.py",
+			"settings":
+			{
+				"buffer_size": 1017,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/static/css/base.css",
+			"settings":
+			{
+				"buffer_size": 22,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 365,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/akshat/Desktop/trydjango1.10",
+		"/home/akshat/Desktop/trydjango1.10/src",
+		"/home/akshat/Desktop/trydjango1.10/src/templates"
+	],
+	"file_history":
+	[
+		"/home/akshat/Desktop/trydjango1.10/static_cdn/admin/css/base.css",
+		"/home/akshat/Desktop/trydjango1.10/src/templates/post_form.html",
+		"/home/akshat/Desktop/trydjango1.10/src/templates/post_detail.html",
+		"/home/akshat/Desktop/trydjango1.10/src/templates/post_list.html",
+		"/home/akshat/Desktop/trydjango1.10/src/templates/base.html",
+		"/home/akshat/Desktop/trydjango1.10/src/templates/messages_display.html",
+		"/home/akshat/Desktop/trydjango1.10/src/posts/views.py",
+		"/home/akshat/Desktop/trydjango1.10/src/templates/index.html",
+		"/home/akshat/Desktop/trydjango1.10/src/posts/urls.py",
+		"/home/akshat/Desktop/trydjango1.10/src/posts/forms.py",
+		"/home/akshat/Desktop/trydjango1.10/src/posts/models.py",
+		"/home/akshat/Desktop/trydjango1.10/src/trydjango1_10/urls.py",
+		"/home/akshat/Desktop/trydjango1.10/src/trydjango1_10/settings.py",
+		"/home/akshat/Desktop/trydjango1.10/src/posts/admin.py",
+		"/home/akshat/Desktop/trydjango1.10/src/crud.md",
+		"/home/akshat/Desktop/trydjango1.10/src/posts/migrations/0001_initial.py",
+		"/home/akshat/Desktop/trydjango19/src/posts/models.py",
+		"/home/akshat/Desktop/trydjango19/src/templates/post_form.html",
+		"/home/akshat/Desktop/trydjango19/src/posts/views.py",
+		"/home/akshat/Desktop/trydjango19/src/posts/urls.py",
+		"/home/akshat/Desktop/trydjango19/src/templates/post_detail.html",
+		"/home/akshat/Desktop/trydjango19/src/templates/post_list.html",
+		"/home/akshat/Desktop/trydjango19/src/trydjango19/urls.py",
+		"/home/akshat/Desktop/trydjango19/src/trydjango19/settings.py",
+		"/home/akshat/Desktop/trydjango19/src/posts/templatetags/urlfy.py",
+		"/home/akshat/Desktop/trydjango19/src/manage.py",
+		"/home/akshat/Desktop/trydjango19/src/posts/forms.py",
+		"/home/akshat/Desktop/trydjango19/src/posts/templatetags/__init__.py",
+		"/home/akshat/Desktop/trydjango19/src/posts/migrations/0001_initial.py",
+		"/home/akshat/Desktop/trydjango19/src/templates/base.html",
+		"/home/akshat/Desktop/trydjango19/src/static/css/base.css",
+		"/home/akshat/Desktop/trydjango19/src/templates/messages_display.html",
+		"/home/akshat/Desktop/trydjango19/src/templates/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dDEB",
+			"ddeb"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/trydjango1_10/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3387,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3326,
+								3326
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1440.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/trydjango1_10/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1017,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1017,
+								1017
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/static/css/base.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 365,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								192,
+								192
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "trydjango1_10.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
